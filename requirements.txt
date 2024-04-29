@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+llama-index
+openai~=1.16.1
+pypdf
+docx2txt
